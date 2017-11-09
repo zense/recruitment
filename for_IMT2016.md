@@ -6,7 +6,6 @@ These problems are to be solved as a part of application process to apply for Ze
 For every problem, a statement ID is mentioned. Please mention this id in your email or github repository while putting in your submissions.
 
 ## Problem Statement ID: 2016_owncloud
-
 Host owncloud on your laptop
 
 Mentor: [@vik-y](https://github.com/vik-y)
@@ -23,7 +22,6 @@ Hint: You have to connect your laptop to the VPN hosted on digital ocean. Then y
 * https://www.nginx.com/resources/admin-guide/reverse-proxy/
 
 ### Submission Guidelines:
-
 You have to give the IP of your digital ocean VM as part of the submission. You will be called in for demonstration in which you will explain the approach taken and demo your solution.
 
 ## Problem Statement ID: 2016_rails
@@ -43,7 +41,6 @@ The application should support sign up, sign in and forgot password with confirm
 * https://github.com/omniauth/omniauth
 
 ### Submission Guidelines
-
 Post the link of the github repo in the google form that we will float before the submission. Deadline 19 November, 11:59PM
 
 ## Problem Statement ID: 2016_face
@@ -61,8 +58,34 @@ The face gestures can be read from a recorded video, optionally live webcam feed
 * http://selenium-python.readthedocs.io/
 
 ### Submission Guidelines
-
 You have to give a link to a Github public repository by November 19th, 11:59PM.
+
+## Problem Statement ID: 2016_react
+A Hacker News Reader built in React Native for iOS and Android.
+
+Mentor: [@vibhavagarwal5](https://github.com/vibhavagarwal5)
+
+### Description
+A react native app where one can read news from Hacker News, share it among others, star/save it to read later/offline. Feel free to extend this as much as possible.
+
+### Submission Guidelines
+Submit a link to the Github repository and also submit the standalone APK file of the app. The submission should be done by 14th November 11;59 PM.
+
+## Problem Statement ID: 2016_wordpress
+Install wordpress and create a custom theme for it.
+
+Mentor: [@arkokoley](https://github.com/arkokoley)
+
+### Description
+Use Wordpress's famous 5 minute installation, to install it on your laptop or Digital Ocean server and design a custom theme for it.
+
+The submission will be evaluated on the basis of the quality of code written and aesthetics of the design.
+
+### Useful Resources:
+* https://www.packtpub.com/books/content/creating-your-own-theme%E2%80%94-wordpress-tutorial
+
+### Submission Guidelines
+Post the link of the github repo in the google form that we will float before the submission. Deadline 19 November, 11:59PM
 
 ## Problem Statement ID: 2016_open
 Open Problem
@@ -78,14 +101,3 @@ The submission will be evaluated on the basis of the quality of code and usefuln
 ### Submission Guidelines
 
 Post the link of the github repo in the google form that we will float before the submission. Deadline 19 November, 11:59PM
-
-## Problem Statement ID: 2016_react
-A Hacker News Reader built in React Native for iOS and Android.
-
-Mentor: [@vibhavagarwal5](https://github.com/vibhavagarwal5)
-
-### Description
-A react native app where one can read news from Hacker News, share it among others, star/save it to read later/offline. Feel free to extend this as much as possible.
-
-### Submission Guidelines
-Submit a link to the Github repository and also submit the standalone APK file of the app. The submission should be done by 14th November 11;59 PM.
