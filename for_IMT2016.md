@@ -68,8 +68,15 @@ Mentor: [@vibhavagarwal5](https://github.com/vibhavagarwal5)
 ### Description
 A react native app where one can read news from Hacker News, share it among others, star/save it to read later/offline. Feel free to extend this as much as possible.
 
+### Useful Resources:
+* https://facebook.github.io/react-native/
+* https://github.com/BoostIO/boostnote-mobile
+* https://github.com/facebook/react-devtools/blob/master/packages/react-devtools/README.md 
+* https://github.com/HackerNews/API
+* http://nativebase.io/
+
 ### Submission Guidelines
-Submit a link to the Github repository and also submit the standalone APK file of the app. The submission should be done by 14th November 11;59 PM.
+Submit a link to the Github repository and also submit the standalone APK file of the app. The submission should be done by 19th November 11;59 PM.
 
 ## Problem Statement ID: 2016_wordpress
 Install wordpress and create a custom theme for it.
